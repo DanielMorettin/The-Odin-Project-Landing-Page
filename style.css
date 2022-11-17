@@ -50,6 +50,27 @@ button {
     border-width: 0px;
 }
 
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+.main-content-image {
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-color: #3882F6;
+    border-width: 5px;
+    border-radius: 3px;
+}
+
+.image-with-description {
+    height: 300px;
+    width: 200px;
+}
+
+
 .call-to-action-container {
     background-color: #3882F6;
     color: #F9FAF8;
